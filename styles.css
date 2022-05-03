@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  Escrever CSS AQUI EM CIMA 👆👆👆👆👆👆 */
+/* -------------------------------------------------------------------------- */
+/*                                TYPES COLORS                                */
+/* -------------------------------------------------------------------------- */
+.type-fire {
+    background-color: #ee8130;
+    color: white;
+  }
+  
+  .type-water {
+    background-color: #6390f0;
+    color: white;
+  }
+  .type-electric {
+    background-color: #f7d02c;
+    color: white;
+  }
+  .type-grass {
+    background-color: #7ac74c;
+    color: white;
+  }
+  .type-ice {
+    background-color: #96d9d6;
+    color: white;
+  }
+  .type-fighting {
+    background-color: #c22e28;
+    color: white;
+  }
+  
+  .type-poison {
+    background-color: #a33ea1;
+    color: white;
+  }
+  .type-ground {
+    background-color: #e2bf65;
+    color: white;
+  }
+  .type-flying {
+    background-color: #a98ff3;
+    color: white;
+  }
+  .type-psychic {
+    background-color: #f95587;
+    color: white;
+  }
+  .type-bug {
+    background-color: #a6b91a;
+    color: white;
+  }
+  .type-rock {
+    background-color: #b6a136;
+    color: white;
+  }
+  
+  .type-ghost {
+    background-color: #735797;
+    color: white;
+  }
+  .type-dragon {
+    background-color: #6f35fc;
+    color: white;
+  }
+  .type-dark {
+    background-color: #705746;
+    color: white;
+  }
+  .type-steel {
+    background-color: #b7b7ce;
+    color: white;
+  }
+  .type-fairy {
+    background-color: #d685ad;
+    color: white;
+  }
+  
